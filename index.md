@@ -5,9 +5,11 @@ title: Home
 
 # About
 
-Howdy! I’m Jake, and I’m passionate about visual effects and computer graphics. I’ve got a Bachelor of Science in Computer Science from the University of Calgary, where I really got into the intersection of math, technology and art. My passion for creating stunning visuals and exploring new tech drives me every day.
+Howdy I’m Jake,
 
-I’m excited to help push the boundaries of visual storytelling and contribute my skills and enthusiasm to a dynamic team. My attention to detail and problem-solving skills make me a valuable asset as I continue to learn and grow.
+I graduated from the University of Calgary in 2022, acheving a Bachelor of Science in Computer Science, where I really got into the intersection of math, technology and art.
+
+My attention to detail and problem-solving skills make me a valuable asset as I continue to learn and grow. I’m excited to help push the boundaries of visual storytelling and contribute my aptitude and enthusiasm to a dynamic team. 
 
 Feel free to explore my page and reach out if you’re interested in collaborating or learning more about my work!
 
