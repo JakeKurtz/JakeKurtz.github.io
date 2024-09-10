@@ -1,7 +1,33 @@
-title: ""
-description: ""
+title: Jake Kurtz
+#description: Jekyll theme for a beautiful online CV
 baseurl: ""
-url: ""
+url: https://jakekurtz.ca
+
+#theme: cvless
+
+# site settings
+#taglong: Jekyll theme for a beautiful online CV
+#tagshort: Jekyll theme
+
+# author settings
+author:
+  name: Jake Kurtz
+  email: jake4kurtz@gmail.com
+photo: assets/files/photo.jpg
+#address: 
+#phone:
+
+# social media links
+social:
+  github: jakekurtz
+  linkedin: jake-e-kurtz
+
+# build settings
+permalink: pretty
+exclude:
+  - docker-compose.yml
+  - LICENSE
+  - README.md
 
 exclude:
   - demo/
