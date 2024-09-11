@@ -3,6 +3,4 @@ layout: cv
 title: CV
 ---
 
-<video width="100%" height="auto" controls loop>
-    <source src="https://jakekurtz.ca/rexhue/_static/media/paint/flake/opaque_ior/vid.mp4" type="video/mp4">
-</video>
+<iframe src="https://drive.google.com/file/d/13lLexEIaHidxXywa56q1AGO6pyCqqSIX/preview" width="640" height="480" allow="autoplay"></iframe>
