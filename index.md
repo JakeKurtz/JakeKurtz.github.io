@@ -17,5 +17,3 @@ Feel free to explore my page and reach out if you’re interested in collaborati
 
 <script src="https://static.elfsight.com/platform/platform.js" async></script>
 <div class="elfsight-app-64b2201c-fcf9-45ee-8635-dc1203b09868" data-elfsight-app-lazy></div>
-
-{% include archive.html %}
